@@ -1,0 +1,83 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Overpass", sans-serif;
+}
+
+/* ............Hero section........ */
+.zipify-title {
+    background-image: url("./Images1/Frame.png");
+    height: 350px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* .......Live theme section......... */
+.live-theme {
+    background-image: url("./Images1/Group\ 4813.png");
+    width: 100%;
+    height: 350px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.smarketly-theme {
+    background-image: url("./Images1/Group\ 4814.png");
+    width: 103%;
+    height: 170px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.fitness-theme {
+    background-image: url("./Images1/Group\ 4815.png");
+    width: 103%;
+    height: 170px;
+    margin-top: 10px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* ...............Update section................ */
+.stay-title {
+    background-image: url("./Images1/Group\ 4822.png");
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* ...........footer-section............. */
+.footer-section {
+    background-image: url("./Images1/footer-bg.png");
+    background-size: cover;
+    height: auto;
+}
+
+.f-app {
+    background-image: url("./Images1/bg-blue.png");
+}
+
+.social a {
+    color: white;
+    margin: 5px;
+}
+
+.links {
+    list-style: none;
+    text-decoration: none;
+}
+
+.links li a {
+    color: #8d969f;
+}
+
+.footer-category a {
+    color: #8d969f;
+    text-decoration: none;
+}
